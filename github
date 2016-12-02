@@ -1,0 +1,20 @@
+How to push to github from new project with no repo on github
+
+git remote add origin git@github.com:C9Support/testPush.git 
+
+git init
+
+git add .
+
+git commit -m "your message"
+
+git push origin master 
+
+----------------------------------------------------------------------
+
+How to push to github from new project with existing repo on github
+
+git init 
+git add .
+git commit -m "your message"
+git push -u origin master

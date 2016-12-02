@@ -1,0 +1,9 @@
+textarea{
+    resize:none;
+}
+
+#phonePlace{
+    visibility: hidden;
+    display:none;
+    
+}
